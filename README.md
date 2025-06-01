@@ -12,7 +12,7 @@ A page designed for Frontend Facilitator and Interns
 3. Add your image inside img folder in assets folder.
 
 4. Duplicate the element with a class of "profile-card" with your information. Example Below:
-   `<div class="profile-card">
+   <div class="profile-card">
    <img src="assets/img/your image here.jpg" alt="" class="profile-img" alt="your name here" />
      <div class="content">
        <h1 class="name">Your Name.Initial</h1>
@@ -23,7 +23,7 @@ A page designed for Frontend Facilitator and Interns
          <a href="your twitter profile link"> <i class="bi bi-twitter-x"></i> </a>
        </div>
      </div>
-   `</div>
+   </div>
 
 5. run `git add .`
 6. run `git commit -m "added my profile card"`
