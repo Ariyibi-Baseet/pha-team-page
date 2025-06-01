@@ -30,8 +30,11 @@ A page designed for Frontend Facilitator and Interns
     </div>
   </div>
 </div>
-
-5. run `git add .` 6. run `git commit -m "added my profile card"` 7. Your are
-done, the next thing you need to do is to push your code back to the remote
-repository by running `git push origin your branchname` 8. make a pull request
 ```
+
+5. run `git add .`
+6. run `git commit -m "added my profile card"`
+7. Your
+   are done, the next thing you need to do is to push your code back to the remote
+   repository by running `git push origin your branchname`
+8. click on the pull request link to make a pull request
