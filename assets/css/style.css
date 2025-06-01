@@ -21,21 +21,26 @@ section#team > h1 {
 
 .profile-card-wrapper {
   display: flex;
+  flex-wrap: wrap;
   gap: 20px;
 }
 
 .profile-card {
-  width: 33.33%;
+  width: 25%;
   background-color: #fff;
   box-shadow: 3px 5px 15px rgb(160, 160, 160);
+  margin-bottom: 30px;
 }
 
 .profile-card img {
   width: 100%;
+  height: 300px;
+  object-fit: cover;
+  object-position: top;
 }
 
 .content {
-  padding: 10px 12px;
+  padding: 10px 12px 20px 12px;
 }
 
 .content h1 {
