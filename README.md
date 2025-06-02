@@ -32,6 +32,12 @@ A page designed for Frontend Facilitator and Interns
 </div>
 ```
 
+Note: It must be inside this element below:
+
+```html
+<div class="profile-card-wrapper"></div>
+```
+
 5. run `git add .`
 6. run `git commit -m "added my profile card"`
 7. Your
